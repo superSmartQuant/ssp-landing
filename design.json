@@ -1,0 +1,1088 @@
+[
+    {
+      "page_title": "Global Website Directory | BlackRock & iShares",
+      "brand": "BlackRock",
+      "page_type": "Directory/Landing Page",
+      "url": "https://www.blackrock.com/corporate/global-directory",
+      "color_palette": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF",
+        "accent": "#808080",
+        "background": "#FFFFFF",
+        "text_primary": "#000000",
+        "text_secondary": "#666666",
+        "links": "#000000",
+        "links_hover": "#333333"
+      },
+      "typography": {
+        "font_family": "Sans-serif (likely Helvetica, Arial, or custom BlackRock font)",
+        "h1": {
+          "text": "We're here for you",
+          "size": "~48px",
+          "weight": "700-900 (Bold/Black)",
+          "color": "#000000"
+        },
+        "h2": {
+          "example": "BlackRock site directory",
+          "size": "~32-36px",
+          "weight": "700 (Bold)",
+          "color": "#000000"
+        },
+        "h3": {
+          "example": "Americas, Europe, Asia Pacific",
+          "size": "~24px",
+          "weight": "600-700 (Semi-Bold/Bold)",
+          "color": "#000000"
+        },
+        "body_text": {
+          "size": "~16-18px",
+          "weight": "400 (Regular)",
+          "line_height": "1.5-1.6",
+          "color": "#333333"
+        },
+        "links": {
+          "size": "~16px",
+          "weight": "400",
+          "text_decoration": "none",
+          "hover_state": "underline or color change"
+        }
+      },
+      "layout": {
+        "type": "Responsive grid layout",
+        "max_width": "~1200-1400px",
+        "container_padding": "20-40px",
+        "grid_columns": "Variable (2-4 columns depending on section)",
+        "breakpoints": {
+          "mobile": "<768px",
+          "tablet": "768px-1024px",
+          "desktop": ">1024px"
+        }
+      },
+      "header": {
+        "type": "Fixed navigation bar",
+        "logo": "BlackRock wordmark (SVG)",
+        "logo_color": "Black",
+        "background": "#FFFFFF",
+        "height": "~80-100px",
+        "navigation_items": [
+          "About Us",
+          "Newsroom",
+          "Insights",
+          "Investor Relations",
+          "Corporate sustainability",
+          "Careers"
+        ],
+        "navigation_style": "Horizontal mega-menu with dropdowns",
+        "mobile_menu": "Hamburger menu"
+      },
+      "hero_section": {
+        "title": "We're here for you",
+        "subtitle": "July 2025 - The money we manage is not our own. It belongs to many people \u2013 in many different locations \u2013 all trying to achieve their most important financial goals. We're represented by 108 offices in 38 different locations, with local expertise strengthened by global service.",
+        "background": "#FFFFFF",
+        "text_alignment": "Center",
+        "padding": "60-100px vertical",
+        "has_image": false,
+        "has_cta": false
+      },
+      "main_content": {
+        "section_title": "Search the global site directory",
+        "tabs": {
+          "tab_1": "BlackRock",
+          "tab_2": "iShares",
+          "style": "Underlined active state",
+          "background": "#FFFFFF"
+        },
+        "accordion_regions": [
+          {
+            "name": "Americas",
+            "countries": [
+              "Americas Offshore",
+              "Brazil",
+              "Canada",
+              "Chile",
+              "Colombia",
+              "Mexico",
+              "United States"
+            ]
+          },
+          {
+            "name": "Asia Pacific",
+            "countries": [
+              "Australia",
+              "China Onshore",
+              "China Offshore",
+              "Hong Kong",
+              "Japan",
+              "Korea",
+              "Singapore",
+              "Taiwan"
+            ]
+          },
+          {
+            "name": "Europe",
+            "countries": [
+              "Austria",
+              "Belgium",
+              "Bulgaria",
+              "Croatia",
+              "Czech Republic",
+              "Denmark",
+              "Estonia",
+              "Finland",
+              "France",
+              "Germany",
+              "Gibraltar",
+              "Greece",
+              "Guernsey",
+              "Hungary",
+              "Iceland",
+              "Ireland",
+              "Isle of Man",
+              "Italy",
+              "Jersey",
+              "Latvia",
+              "Liechtenstein",
+              "Lithuania",
+              "Luxembourg",
+              "Malta",
+              "Netherlands",
+              "Norway",
+              "Poland",
+              "Portugal",
+              "Romania",
+              "Republic of Cyprus",
+              "Slovakia",
+              "Slovenia",
+              "Spain",
+              "Sweden",
+              "Switzerland",
+              "United Kingdom"
+            ]
+          },
+          {
+            "name": "Middle East & Africa",
+            "countries": [
+              "Abu Dhabi (ADGM)",
+              "Dubai (DIFC)",
+              "Israel",
+              "Saudi Arabia",
+              "South Africa"
+            ]
+          }
+        ],
+        "layout_style": "Multi-column list (3-4 columns on desktop)",
+        "link_style": "Plain text links with hover underline"
+      },
+      "footer": {
+        "background": "#000000",
+        "text_color": "#FFFFFF",
+        "logo": "BlackRock wordmark in white",
+        "sections": [
+          {
+            "title": "Corporate",
+            "links": [
+              "Fraud protection tips",
+              "Careers",
+              "Newsroom",
+              "Investor relations",
+              "UK Corporate Tax Strategy",
+              "UK Gender Pay Reporting",
+              "Ireland Gender Pay reporting",
+              "Accessibility",
+              "Responsible Disclosure"
+            ]
+          },
+          {
+            "title": "Legal",
+            "links": [
+              "Terms & Conditions",
+              "Privacy Notice",
+              "Business Continuity",
+              "FINRA BrokerCheck",
+              "Best Ex & Order Placement Policy",
+              "Rule 606 Disclosure",
+              "Investor Rights",
+              "Cookie Notice",
+              "Manage cookies"
+            ]
+          }
+        ],
+        "description": "As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.",
+        "copyright": "\u00a9 2025 BlackRock, Inc. All rights reserved.",
+        "padding": "60-80px vertical"
+      },
+      "interactive_elements": {
+        "tabs": {
+          "type": "Horizontal tabs",
+          "interaction": "Click to switch between BlackRock and iShares",
+          "animation": "Smooth content transition"
+        },
+        "accordions": {
+          "type": "Collapsible regions",
+          "default_state": "All open or closed based on breakpoint",
+          "indicator": "Plus/minus icons or arrows"
+        },
+        "modal": {
+          "trigger": "Clicking external links",
+          "content": "Exit warning message",
+          "buttons": [
+            "Continue to third-party site",
+            "Cancel"
+          ],
+          "overlay": "Semi-transparent dark background"
+        },
+        "mega_menu": {
+          "trigger": "Hover or click on navigation items",
+          "content": "Multi-column dropdowns with links",
+          "animation": "Fade in/slide down"
+        }
+      },
+      "spacing": {
+        "section_margin": "80-120px between major sections",
+        "element_margin": "20-40px between elements",
+        "padding_container": "20-40px horizontal",
+        "whitespace_usage": "Generous - creates breathing room and clarity"
+      },
+      "images_and_media": {
+        "logo_format": "SVG (scalable, crisp)",
+        "hero_image": "None - text only",
+        "decorative_elements": "Minimal to none",
+        "icons": "Minimal, likely SVG arrows or indicators"
+      },
+      "design_principles": {
+        "style": "Corporate minimalism",
+        "approach": "Function over form",
+        "tone": "Professional, authoritative, trustworthy",
+        "user_experience": "Clean, organized, easy to navigate",
+        "accessibility": "Linked accessibility page in footer"
+      },
+      "strengths": [
+        "Clear information hierarchy",
+        "Excellent whitespace usage",
+        "Professional and trustworthy appearance",
+        "Well-organized navigation structure",
+        "Responsive design for all devices",
+        "Fast loading (minimal graphics)",
+        "Comprehensive global coverage"
+      ],
+      "weaknesses": [
+        "Visually uninspiring - no imagery or illustrations",
+        "Very conservative color palette",
+        "Lacks emotional engagement elements",
+        "Could benefit from subtle animations",
+        "No visual differentiation between regions",
+        "Footer is quite heavy with many links"
+      ],
+      "target_audience": {
+        "primary": "Institutional investors, financial advisors, corporate clients",
+        "secondary": "Individual investors seeking regional sites",
+        "tone_for_audience": "Formal, professional, information-focused"
+      },
+      "technical_notes": {
+        "framework": "Likely custom or enterprise CMS",
+        "performance": "Optimized for fast loading",
+        "seo": "Well-structured with proper heading hierarchy",
+        "internationalization": "Multi-language support via regional sites",
+        "compliance": "Strong legal footer and exit modals"
+      }
+    },
+    {
+      "page_title": "BlackRock Corporate Website | BlackRock",
+      "brand": "BlackRock",
+      "page_type": "Corporate Homepage",
+      "url": "https://www.blackrock.com/corporate",
+      "color_palette": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF",
+        "accent": "#808080",
+        "background": "#FFFFFF",
+        "text_primary": "#000000",
+        "text_secondary": "#666666",
+        "links": "#000000",
+        "links_hover": "#333333",
+        "cta_background": "Likely blue or black",
+        "cta_text": "#FFFFFF"
+      },
+      "typography": {
+        "font_family": "Sans-serif (likely Helvetica, Arial, or custom BlackRock font)",
+        "h1": {
+          "text": "Infrastructure and the opportunity in skilled trades",
+          "size": "~48-56px",
+          "weight": "700-900 (Bold/Black)",
+          "color": "#000000"
+        },
+        "h2": {
+          "example": "Citi to deliver new customized portfolio offering powered by BlackRock",
+          "size": "~32-40px",
+          "weight": "700 (Bold)",
+          "color": "#000000"
+        },
+        "h3": {
+          "example": "Getting a grip on uncertainty, Global Weekly Commentary",
+          "size": "~24-28px",
+          "weight": "600-700 (Semi-Bold/Bold)",
+          "color": "#000000"
+        },
+        "body_text": {
+          "size": "~16-18px",
+          "weight": "400 (Regular)",
+          "line_height": "1.5-1.6",
+          "color": "#333333"
+        },
+        "labels": {
+          "example": "PRESS RELEASE, INSIGHTS & VIEWS",
+          "size": "~12-14px",
+          "weight": "600-700 (Semi-Bold/Bold)",
+          "text_transform": "uppercase",
+          "letter_spacing": "1-2px",
+          "color": "#666666"
+        }
+      },
+      "layout": {
+        "type": "Responsive grid layout with full-width sections",
+        "max_width": "~1200-1400px",
+        "container_padding": "20-40px",
+        "grid_columns": "Variable (1-3 columns depending on section)",
+        "breakpoints": {
+          "mobile": "<768px",
+          "tablet": "768px-1024px",
+          "desktop": ">1024px"
+        }
+      },
+      "header": {
+        "type": "Fixed navigation bar",
+        "logo": "BlackRock wordmark (SVG)",
+        "logo_color": "Black",
+        "background": "#FFFFFF",
+        "height": "~80-100px",
+        "navigation_items": [
+          "About Us",
+          "Newsroom",
+          "Insights",
+          "Investor Relations",
+          "Corporate sustainability",
+          "Careers"
+        ],
+        "navigation_style": "Horizontal mega-menu with dropdowns",
+        "mobile_menu": "Hamburger menu",
+        "secondary_nav": {
+          "items": [
+            "BlackRock",
+            "iShares",
+            "Aladdin",
+            "Our company",
+            "Local websites"
+          ],
+          "style": "Top utility bar"
+        }
+      },
+      "hero_section": {
+        "type": "Full-width image with overlay text",
+        "title": "Infrastructure and the opportunity in skilled trades",
+        "description": "Discover how today's infrastructure buildout \u2014 from modernized power systems to the rapid expansion of AI data centers \u2014 is boosting demand for skilled workers. As capital and labor come together to deliver the next generation of critical infrastructure, the opportunities for workers, communities and economies continue to grow.",
+        "image": "/blk-corp-assets/cache-1768322879000/images/media-bin/web/global/banner/infra-and-jobs-860x600.jpg",
+        "image_alt": "Aerial view of a brightly lit highway interchange at night",
+        "background": "Full-width image with dark overlay",
+        "text_alignment": "Left",
+        "text_color": "#FFFFFF",
+        "padding": "100-150px vertical",
+        "has_cta": true,
+        "cta_text": "Explore infrastructure and the opportunity in skilled trades",
+        "cta_style": "Button or text link with arrow"
+      },
+      "main_content_sections": [
+        {
+          "section_type": "Press Release Card",
+          "label": "Press Release",
+          "title": "Citi to deliver new customized portfolio offering powered by BlackRock",
+          "description": "Citi Wealth announces the selection of BlackRock to create a new portfolio offering for its clients.",
+          "cta": "Read the press release",
+          "background": "#FFFFFF",
+          "layout": "2-column or card"
+        },
+        {
+          "section_type": "Newsroom Promo",
+          "title": "Stay current with the latest news and announcements from BlackRock.",
+          "cta": "Read and subscribe to BlackRock News",
+          "background": "#F5F5F5 or light gray"
+        },
+        {
+          "section_type": "Insights Cards",
+          "cards": [
+            {
+              "label": "Q4 INVESTMENT OUTLOOK",
+              "title": "Getting a grip on uncertainty",
+              "description": "With long-term outcomes for inflation and growth uncertain, we tap into the mega forces we see driving returns today\u2014from artificial intelligence to geopolitical fragmentation.",
+              "cta": "Read our Q4 outlook update"
+            },
+            {
+              "label": "BLACKROCK INVESTMENT INSTITUTE",
+              "title": "Global Weekly Commentary",
+              "description": "Each week, we publish new insights from some of the top BlackRock investment experts, delving into emerging topics and latest trends in the global financial markets.",
+              "cta": "Read our weekly market commentary"
+            }
+          ],
+          "layout": "2-column grid",
+          "background": "#FFFFFF"
+        },
+        {
+          "section_type": "Featured Content - Larry Fink",
+          "title": "Larry Fink on economic growth and prosperity",
+          "description": "In his 2025 Chairman's Letter to Investors, Larry Fink shares how our thinking on retirement can be reshaped and how expanding access to capital markets can help build a more prosperous future for more people.",
+          "image": "Photo of Larry Fink",
+          "cta": "Read Larry Fink's letter",
+          "background": "#F5F5F5 or light gray",
+          "layout": "Image with text block"
+        },
+        {
+          "section_type": "Quick Links",
+          "title": "Learn more",
+          "links": [
+            "About BlackRock",
+            "Careers"
+          ],
+          "background": "#FFFFFF"
+        }
+      ],
+      "footer": {
+        "background": "#000000",
+        "text_color": "#FFFFFF",
+        "logo": "BlackRock wordmark in white",
+        "description": "As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.",
+        "sections": [
+          {
+            "title": "Corporate",
+            "links": [
+              "Fraud protection tips",
+              "Careers",
+              "Newsroom",
+              "Investor relations",
+              "UK Corporate Tax Strategy",
+              "UK Gender Pay Reporting",
+              "Ireland Gender Pay reporting",
+              "Accessibility",
+              "Responsible Disclosure"
+            ]
+          },
+          {
+            "title": "Legal",
+            "links": [
+              "Terms & Conditions",
+              "Privacy Notice",
+              "Business Continuity",
+              "FINRA BrokerCheck",
+              "Best Ex & Order Placement Policy",
+              "Rule 606 Disclosure",
+              "Investor Rights",
+              "Cookie Notice",
+              "Manage cookies"
+            ]
+          }
+        ],
+        "copyright": "\u00a92026 BlackRock, Inc. All rights reserved.",
+        "legal_disclaimers": true,
+        "padding": "60-80px vertical"
+      },
+      "interactive_elements": {
+        "mega_menu": {
+          "trigger": "Hover or click on navigation items",
+          "content": "Multi-column dropdowns with links and featured content",
+          "animation": "Fade in/slide down",
+          "includes_press_releases": true
+        },
+        "cards": {
+          "type": "Content cards with hover effects",
+          "hover_state": "Subtle shadow or scale",
+          "cta_style": "Text links with arrows"
+        },
+        "modal": {
+          "trigger": "Clicking external links",
+          "content": "Exit warning message",
+          "buttons": [
+            "Continue to third-party site",
+            "Cancel"
+          ],
+          "overlay": "Semi-transparent dark background"
+        }
+      },
+      "images_and_media": {
+        "hero_image": {
+          "format": "JPG",
+          "style": "Professional photography",
+          "treatment": "Dark overlay for text legibility"
+        },
+        "profile_images": {
+          "format": "JPG or PNG",
+          "style": "Professional headshots"
+        },
+        "logo_format": "SVG (scalable, crisp)",
+        "lazy_loading": "Likely implemented for performance"
+      },
+      "spacing": {
+        "section_margin": "80-120px between major sections",
+        "card_gap": "20-30px",
+        "element_margin": "20-40px between elements",
+        "padding_container": "20-40px horizontal",
+        "whitespace_usage": "Generous - creates breathing room"
+      },
+      "design_principles": {
+        "style": "Corporate minimalism with editorial touch",
+        "approach": "Content-focused with visual hierarchy",
+        "tone": "Professional, authoritative, trustworthy",
+        "user_experience": "Clean, organized, story-driven",
+        "visual_interest": "Strategic use of hero images and photography"
+      },
+      "content_strategy": {
+        "primary_messages": [
+          "Infrastructure and skilled trades opportunities",
+          "Partnership announcements (Citi)",
+          "Investment insights and research",
+          "Leadership perspective (Larry Fink)"
+        ],
+        "content_types": [
+          "Press releases",
+          "Thought leadership",
+          "Investment commentary",
+          "Annual letters"
+        ],
+        "update_frequency": "Regular - includes dated press releases"
+      },
+      "strengths": [
+        "Strong visual hierarchy with hero image",
+        "Mix of content types (news, insights, leadership)",
+        "Clear CTAs throughout",
+        "Professional photography adds credibility",
+        "Well-organized information architecture",
+        "Good balance of text and imagery",
+        "Editorial feel with journalistic layout"
+      ],
+      "weaknesses": [
+        "Still quite conservative overall",
+        "Limited color beyond black/white/gray",
+        "Could use more visual variety in card layouts",
+        "Footer remains very heavy",
+        "Minimal animation or interactive elements"
+      ],
+      "comparison_to_directory_page": {
+        "more_visual": "Uses hero imagery and photography",
+        "more_editorial": "Story-driven content layout",
+        "more_engaging": "Mix of content types creates interest",
+        "maintains_consistency": "Same header/footer/navigation structure"
+      },
+      "target_audience": {
+        "primary": "Investors, financial professionals, media, general public",
+        "secondary": "Potential employees, partners, stakeholders",
+        "tone_for_audience": "Authoritative but accessible, informative"
+      },
+      "technical_notes": {
+        "framework": "Likely custom or enterprise CMS",
+        "performance": "Optimized with image caching (noted in URLs)",
+        "seo": "Well-structured with proper heading hierarchy",
+        "responsive": "Mobile-first approach evident",
+        "accessibility": "Accessibility page linked in footer"
+      }
+    },
+    {
+      "page_title": "About BlackRock - What We Do & Our Purpose | BlackRock",
+      "brand": "BlackRock",
+      "page_type": "About Us / Company Information",
+      "url": "https://www.blackrock.com/corporate/about-us",
+      "color_palette": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF",
+        "accent_1": "#FFB81C",
+        "accent_2": "#FF6B9D",
+        "accent_3": "#FF4136",
+        "background": "#FFFFFF",
+        "background_secondary": "#F5F5F5",
+        "text_primary": "#000000",
+        "text_secondary": "#666666",
+        "links": "#000000",
+        "links_hover": "#333333",
+        "icon_backgrounds": "Yellow, pink, red (colorful icons)"
+      },
+      "typography": {
+        "font_family": "Sans-serif (likely Helvetica, Arial, or custom BlackRock font)",
+        "h1": {
+          "text": "About BlackRock",
+          "size": "~56-64px",
+          "weight": "700-900 (Bold/Black)",
+          "color": "#000000"
+        },
+        "h2": {
+          "example": "We're here to help more people invest better, Who founded BlackRock?",
+          "size": "~36-44px",
+          "weight": "700 (Bold)",
+          "color": "#000000"
+        },
+        "h3": {
+          "example": "More choice, Easier access, Comprehensive platform",
+          "size": "~24-28px",
+          "weight": "600-700 (Semi-Bold/Bold)",
+          "color": "#000000"
+        },
+        "body_text": {
+          "size": "~16-18px",
+          "weight": "400 (Regular)",
+          "line_height": "1.5-1.7",
+          "color": "#333333"
+        },
+        "labels": {
+          "example": "ABOUT US",
+          "size": "~12-14px",
+          "weight": "600-700 (Semi-Bold/Bold)",
+          "text_transform": "uppercase",
+          "letter_spacing": "1-2px",
+          "color": "#666666"
+        },
+        "stats": {
+          "size": "~48-72px",
+          "weight": "700-900 (Bold/Black)",
+          "color": "#000000",
+          "examples": [
+            "21,000+",
+            "100+",
+            "38"
+          ]
+        }
+      },
+      "layout": {
+        "type": "Responsive grid layout with full-width sections",
+        "max_width": "~1200-1400px",
+        "container_padding": "20-40px",
+        "grid_columns": "Variable (1-4 columns depending on section)",
+        "breakpoints": {
+          "mobile": "<768px",
+          "tablet": "768px-1024px",
+          "desktop": ">1024px"
+        },
+        "section_variety": "Mix of full-width, contained, and multi-column layouts"
+      },
+      "header": {
+        "type": "Fixed navigation bar",
+        "logo": "BlackRock wordmark (SVG)",
+        "logo_color": "Black",
+        "background": "#FFFFFF",
+        "height": "~80-100px",
+        "navigation_items": [
+          "About Us",
+          "Newsroom",
+          "Insights",
+          "Investor Relations",
+          "Corporate sustainability",
+          "Careers"
+        ],
+        "navigation_style": "Horizontal mega-menu with dropdowns",
+        "mobile_menu": "Hamburger menu",
+        "secondary_nav": {
+          "items": [
+            "BlackRock",
+            "iShares",
+            "Aladdin",
+            "Our company",
+            "Local websites"
+          ],
+          "style": "Top utility bar"
+        }
+      },
+      "hero_section": {
+        "type": "Full-width image with overlay",
+        "label": "ABOUT US",
+        "title": "About BlackRock",
+        "subtitle": "We're a global asset manager and technology provider dedicated to helping more and more people experience financial well-being. We help millions of people invest to build savings that serve them throughout their lives.",
+        "image": "/blk-corp-assets/cache-1755894014000/images/media-bin/web/corporate/corporate-one/banners/corporate-about-about-us-hero.jpg",
+        "image_alt": "A man working on his laptop in his kitchen",
+        "background": "Full-width image with subtle dark overlay",
+        "text_alignment": "Left",
+        "text_color": "#FFFFFF",
+        "padding": "100-150px vertical",
+        "has_quick_nav": true,
+        "quick_nav_items": [
+          "Our mission",
+          "Founders",
+          "Our approach",
+          "Who we are",
+          "Locations"
+        ]
+      },
+      "main_content_sections": [
+        {
+          "section_type": "Value Propositions - Icon Grid",
+          "title": "We're here to help more people invest better",
+          "items": [
+            {
+              "icon": "Yellow, pink, and red arrows pointing in different directions",
+              "icon_color": "Multi-color gradient",
+              "title": "More choice",
+              "description": "As a fiduciary, we start with our clients' needs and look to offer them more quality choices for how and where to invest their money."
+            },
+            {
+              "icon": "Key icon",
+              "icon_color": "Yellow/gold",
+              "title": "Easier access",
+              "description": "We access the world's financial markets by offering our clients simple and low-cost investment solutions."
+            },
+            {
+              "icon": "Binoculars icon",
+              "icon_color": "Pink/red",
+              "title": "Comprehensive platform",
+              "description": "Our technology combined with our global expertise can help clients navigate investment risks and opportunities in an ever-changing world."
+            }
+          ],
+          "layout": "3-column grid",
+          "background": "#FFFFFF",
+          "icon_style": "Colorful, illustrative icons (departure from monochrome)"
+        },
+        {
+          "section_type": "Company History",
+          "title": "Who founded BlackRock?",
+          "content": "BlackRock began in 1988 with eight people in a single room who shared a determination to put clients' needs and interests first. Our founders believed they could manage assets in a way that was better for their clients by utilizing their passion for understanding and managing risk. This is the way the firm continues to be managed today.",
+          "background": "#F5F5F5 or light gray",
+          "layout": "Single column, centered text"
+        },
+        {
+          "section_type": "Featured Content - Leadership",
+          "title": "Larry Fink on economic growth and prosperity",
+          "description": "In his 2025 Chairman's Letter to Investors, Larry Fink shares how our thinking on retirement can be reshaped, and how expanding access to capital markets can help build a more prosperous future for more people.",
+          "image": "Photo of Larry Fink",
+          "cta": "Read the annual chairman's letter",
+          "background": "#FFFFFF",
+          "layout": "Image with text block, side-by-side"
+        },
+        {
+          "section_type": "Approach Cards",
+          "title": "Our approach to long-term success",
+          "cards": [
+            {
+              "title": "Corporate sustainability",
+              "description": "Our ability to continue delivering value to our shareholders, employees, communities and clients depends on the long-term sustainability of our company. We constantly reinvest in our business and in our employees to ensure future growth.",
+              "cta": "Read more"
+            },
+            {
+              "title": "Investment stewardship",
+              "description": "Another vital aspect of long-term success is how we engage with other business leaders on topics like board performance and corporate strategy \u2013 things that have a real impact on the financial performance of the companies our clients are invested in.",
+              "cta": "Read more"
+            },
+            {
+              "title": "Philanthropy and community involvement",
+              "description": "From working with partner companies to bring economic opportunity to more people, to equipping our employees to be agents of social change within their own communities, see how we take our corporate social responsibility seriously.",
+              "cta": "Learn more"
+            }
+          ],
+          "layout": "3-column grid",
+          "background": "#F5F5F5 or light gray",
+          "card_style": "White cards with hover effects"
+        },
+        {
+          "section_type": "Statistics - Who We Are",
+          "title": "Who is BlackRock?",
+          "stats": [
+            {
+              "number": "21,000+",
+              "label": "people of different backgrounds, races, and nationalities",
+              "icon": "Increase arrow"
+            },
+            {
+              "number": "100+",
+              "label": "languages addressing the needs of a multilingual client base",
+              "icon": "Increase arrow"
+            },
+            {
+              "number": "38",
+              "label": "locations enabling us to help more and more people",
+              "icon": "None"
+            }
+          ],
+          "layout": "3-column grid with large numbers",
+          "background": "#FFFFFF",
+          "number_style": "Very large, bold typography"
+        },
+        {
+          "section_type": "Interactive Map Section",
+          "title": "Where is BlackRock?",
+          "description": "BlackRock is worldwide. We leverage the advantages of both global scale and local expertise with 100+ offices in over 38 different locations. Click on the map to learn more about BlackRock or iShares in a specific region.",
+          "tabs": [
+            "BlackRock",
+            "iShares"
+          ],
+          "map_image": "/blk-corp-assets/cache-1755895480000/images/media-bin/web/global/charts/blk-maps-aug-25.png",
+          "interactive": true,
+          "regions": [
+            {
+              "name": "BlackRock across America",
+              "countries": [
+                "America Offshore",
+                "Brazil",
+                "Canada",
+                "Chile",
+                "Columbia",
+                "Mexico",
+                "United States"
+              ]
+            },
+            {
+              "name": "BlackRock across Asia Pacific",
+              "countries": [
+                "Australia",
+                "China Offshore",
+                "China Onshore",
+                "Hong Kong",
+                "India",
+                "Japan",
+                "Korea",
+                "Singapore",
+                "Taiwan"
+              ]
+            },
+            {
+              "name": "Explore BlackRock across Europe",
+              "countries": [
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Czech Republic",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Gibralter",
+                "Greece",
+                "Guernsey",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Isle of Man",
+                "Italy",
+                "Jersey",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Republic of Cyprus",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom"
+              ]
+            },
+            {
+              "name": "BlackRock across Middle East & Africa",
+              "countries": [
+                "Abu Dhabi (ADGM)",
+                "Dubai (DIFC)",
+                "Israel",
+                "South Africa",
+                "Saudi Arabia"
+              ]
+            }
+          ],
+          "background": "#F5F5F5 or light gray",
+          "layout": "Full-width with map and regional lists"
+        },
+        {
+          "section_type": "Quick Links - Keep Exploring",
+          "title": "Keep exploring BlackRock",
+          "links": [
+            "Global newsroom",
+            "Careers",
+            "History"
+          ],
+          "background": "#FFFFFF"
+        }
+      ],
+      "footer": {
+        "background": "#000000",
+        "text_color": "#FFFFFF",
+        "logo": "BlackRock wordmark in white",
+        "description": "As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.",
+        "sections": [
+          {
+            "title": "Corporate",
+            "links": [
+              "Fraud protection tips",
+              "Careers",
+              "Newsroom",
+              "Investor relations",
+              "UK Corporate Tax Strategy",
+              "UK Gender Pay Reporting",
+              "Accessibility",
+              "Responsible Disclosure"
+            ]
+          },
+          {
+            "title": "Legal",
+            "links": [
+              "Terms & Conditions",
+              "Privacy Notice",
+              "Business Continuity",
+              "FINRA BrokerCheck",
+              "Best Ex & Order Placement Policy",
+              "Rule 606 Disclosure",
+              "Investor Rights",
+              "Cookie Notice",
+              "Manage cookies"
+            ]
+          }
+        ],
+        "footnotes": true,
+        "footnote_count": 9,
+        "copyright": "\u00a9 2025 BlackRock, Inc. All rights reserved.",
+        "extensive_legal_disclaimers": true,
+        "padding": "60-80px vertical"
+      },
+      "interactive_elements": {
+        "mega_menu": {
+          "trigger": "Hover or click on navigation items",
+          "content": "Multi-column dropdowns with links",
+          "animation": "Fade in/slide down"
+        },
+        "quick_navigation": {
+          "location": "Below hero title",
+          "links": [
+            "Our mission",
+            "Founders",
+            "Our approach",
+            "Who we are",
+            "Locations"
+          ],
+          "behavior": "Jump links to sections on page"
+        },
+        "tabs": {
+          "location": "Map section",
+          "options": [
+            "BlackRock",
+            "iShares"
+          ],
+          "behavior": "Switch between different site directories"
+        },
+        "cards": {
+          "type": "Content cards with hover effects",
+          "hover_state": "Subtle shadow or scale",
+          "cta_style": "Text links with arrows"
+        },
+        "map": {
+          "type": "Static map image with clickable regions (likely)",
+          "interactivity": "Click regions to filter country lists"
+        }
+      },
+      "images_and_media": {
+        "hero_image": {
+          "format": "JPG",
+          "style": "Lifestyle/authentic photography",
+          "subject": "Person working remotely",
+          "treatment": "Subtle overlay for text legibility"
+        },
+        "icons": {
+          "format": "SVG or PNG",
+          "style": "Colorful, illustrative, modern",
+          "colors": "Yellow, pink, red gradients",
+          "note": "Significant departure from typical black/white corporate aesthetic"
+        },
+        "profile_images": {
+          "format": "JPG",
+          "style": "Professional headshots"
+        },
+        "map_graphics": {
+          "format": "PNG",
+          "style": "Custom illustrated maps",
+          "variants": "Separate maps for BlackRock and iShares"
+        },
+        "logo_format": "SVG (scalable, crisp)"
+      },
+      "spacing": {
+        "section_margin": "80-120px between major sections",
+        "card_gap": "20-30px",
+        "element_margin": "20-40px between elements",
+        "padding_container": "20-40px horizontal",
+        "whitespace_usage": "Very generous - emphasizes content hierarchy"
+      },
+      "design_principles": {
+        "style": "Corporate minimalism with humanizing touches",
+        "approach": "Story-driven with strong visual hierarchy",
+        "tone": "Professional yet approachable and human",
+        "user_experience": "Informative, easy to navigate, visually engaging",
+        "key_differentiator": "Use of color in icons breaks from typical corporate monotone"
+      },
+      "content_strategy": {
+        "narrative_arc": [
+          "What we do (mission)",
+          "Our values (choice, access, platform)",
+          "Who we are (history, founders)",
+          "Leadership perspective",
+          "Our approach (sustainability, stewardship, philanthropy)",
+          "Scale (statistics)",
+          "Global presence (locations)"
+        ],
+        "storytelling_elements": [
+          "Origin story (8 people in a room)",
+          "Human-centered photography",
+          "Personal leadership message",
+          "Employee diversity statistics"
+        ],
+        "tone": "Inspiring, purposeful, human-centered"
+      },
+      "strengths": [
+        "Strong narrative structure tells the company story",
+        "Use of color in icons adds visual interest and warmth",
+        "Mix of statistics, narrative, and visuals maintains engagement",
+        "Clear hierarchy and information architecture",
+        "Humanizing touches (lifestyle photo, diversity stats)",
+        "Interactive map provides clear global presence visualization",
+        "Good balance of aspiration and information",
+        "Quick navigation aids user experience",
+        "Comprehensive without being overwhelming"
+      ],
+      "weaknesses": [
+        "Map section is quite long with many country links",
+        "Footer remains extremely heavy with legal content",
+        "Could use more photography throughout",
+        "Some sections feel text-heavy",
+        "Limited use of color beyond icon section",
+        "Extensive footnotes and disclaimers at bottom",
+        "Could benefit from more white space in denser sections"
+      ],
+      "comparison_to_other_pages": {
+        "vs_directory": {
+          "more_visual": "Hero image and colorful icons",
+          "more_narrative": "Tells company story vs pure navigation",
+          "more_emotional": "Human-centered content and imagery"
+        },
+        "vs_corporate_homepage": {
+          "more_comprehensive": "Deep dive into company vs news/updates",
+          "more_foundational": "Focus on mission and values vs current initiatives",
+          "more_human": "Emphasis on people and culture"
+        }
+      },
+      "target_audience": {
+        "primary": "Potential clients, partners, investors, job seekers",
+        "secondary": "Media, analysts, general public",
+        "tone_for_audience": "Authoritative but human, inspiring, trustworthy"
+      },
+      "technical_notes": {
+        "framework": "Likely custom or enterprise CMS",
+        "performance": "Image caching evident in URLs",
+        "seo": "Well-structured with proper heading hierarchy and semantic HTML",
+        "responsive": "Mobile-first design approach",
+        "accessibility": "Jump links, proper heading structure, alt text",
+        "footnotes": "Extensive footnoting system for claims and statistics"
+      },
+      "unique_features": {
+        "colorful_icons": "Departure from typical corporate black/white - yellow, pink, red",
+        "quick_navigation": "In-page jump links for easy section access",
+        "dual_directory": "Both BlackRock and iShares maps in single view",
+        "extensive_footnotes": "Transparent sourcing of statistics and claims",
+        "origin_story": "Compelling founding narrative ('8 people in a room')",
+        "leadership_integration": "CEO letter featured prominently"
+      }
+    }
+  ]
