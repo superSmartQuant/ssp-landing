@@ -3,7 +3,7 @@ export default function About() {
     {
       title: "Head of Trading",
       background:
-        "Former trading lead with experience managing $1.2B across multiple strategies. Built execution systems processing $30M daily volume.",
+        "Former head of trading and quantitative strategist who led a large trading team at an established hedge fund. Deep expertise in systematic strategies and portfolio management.",
     },
     {
       title: "Fund Executive",
@@ -13,7 +13,7 @@ export default function About() {
     {
       title: "Head Of Engineering",
       background:
-        "Built trading and risk systems for institutional clients. Architected infrastructure handling billions in transaction volume.",
+        "Previously managed multi-million dollar portfolios and built trading and risk systems for institutional clients.",
     },
   ];
 
@@ -25,10 +25,9 @@ export default function About() {
 
         <p className="text-body-lg max-w-3xl mb-12">
           SSP Labs was founded by three hedge fund veterans who spent years
-          building and managing infrastructure for institutional capital.
-          We&apos;ve architected systems that handled hundreds of millions in
-          daily volume, managed multi-million dollar portfolios, and built the
-          technology that powered alpha generation at scale.
+          operating within institutional finance. Our team has led trading
+          desks, managed multi-million dollar portfolios, and built
+          infrastructure for institutional clients across prior roles.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
